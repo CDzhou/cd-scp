@@ -1,5 +1,5 @@
 # cd-scp
-用于webpack打包后scp到服务器的plugin（基于sftp传输，请确认服务器是否支持）ps:使用有问题联系CDzhou_10@163.com
+用于webpack打包后scp到服务器的plugin（基于sftp传输，请确认服务器是否支持）
 # installation
 
 ```
