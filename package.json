@@ -19,7 +19,7 @@
     "compressing": "^1.4.0",
     "glob": "~7.0.3",
     "lodash": "~4.17.11",
-    "ssh2": "^0.6.0"
+    "ssh2": "^1.4.0"
   },
   "author": "chendingzhou",
   "license": "ISC"
