@@ -15,7 +15,7 @@
     "url": "https://github.com/CDzhou/cd-scp/issues"
   },
   "dependencies": {
-    "async": "~0.9.0",
+    "async": "~3.2.2",
     "compressing": "^1.4.0",
     "glob": "~7.0.3",
     "lodash": "~4.17.11",
